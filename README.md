@@ -11,10 +11,10 @@
 - **[CPU - Performance Tracker](https://cpucseiu.azurewebsites.net/)** | `ASP.NET Core MVC` `Bootstrap` `C#` `HTML` `CSS` `jQuery`  
      *A web app for the Competitive Programmers Union. Contains robust tracking mechanism to evaluate member performance and calculate scores for bi-monthly awards.*
 - **[CpLife](https://cplifecse.web.app/)** | `Angular` `Bootstrap` `Codeforces & Atcoder API`  
-  *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
+     *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
 
 - **[InterviewPuzzle Web API](https://myinterviewpuzzle.web.app/) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
-  *An Web API for an interview preparation web app.*
+     *A Web API for an interview preparation web app.*
 
 
 💡**Currently working on**: [Online Laptop Store](https://github.com/wajiul/Online-Laptop-Store/tree/main)                                                           
