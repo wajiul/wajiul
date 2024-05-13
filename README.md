@@ -12,8 +12,7 @@
      *A web app for the Competitive Programmers Union. Contains robust tracking mechanism to evaluate member performance and calculate scores for bi-monthly awards.*
 - **[CpLife](https://cplifecse.web.app/)** | `Angular` `Bootstrap` `Codeforces & Atcoder API`  
      *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
-
-- **[InterviewPuzzle Web API](https://myinterviewpuzzle.web.app/) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
+- **[InterviewPuzzle Web API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
      *A Web API for an interview preparation web app.*
 
 
