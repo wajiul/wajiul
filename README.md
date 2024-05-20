@@ -6,19 +6,26 @@
 
 🧠 I'm currently learning ASP.NET Core Web API and Angular
 
-### Live Projects
-
-- **[CPU - Performance Tracker](https://cpucseiu.azurewebsites.net/)** | `ASP.NET Core MVC` `Bootstrap` `C#` `HTML` `CSS` `jQuery`  
-     *A web app for the Competitive Programmers Union. Contains robust tracking mechanism to evaluate member performance and calculate scores for bi-monthly awards.*
-- **[CpLife](https://cplifecse.web.app/)** | `Angular` `Bootstrap` `Codeforces & Atcoder API`  
-     *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
-- **[InterviewPuzzle Web API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
+### Web API Projects
+- **[InterviewPuzzle API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
      *A Web API for an interview preparation web app.*
 
+- **[LibrarianX API](https://github.com/wajiul/LibrarianX)** | `ASP.NET Core Web API` `C#` `EF Core`  
+     *A library management API crafted with ASP.NET Core Web API.*
+- **[Online Laptop Store API](https://github.com/wajiul/Online-Laptop-Store)** | `ASP.NET Core Web API` `C#` `EF Core`  
+     *E-Commerce website API for a online laptop store using ASP.NET Core Web API*
 
-💡**Currently working on**: [Online Laptop Store](https://github.com/wajiul/Online-Laptop-Store/tree/main)                                                           
-    -*I'm developing the backend for an imaginary e-commerce laptop store using `ASP.NET Core Web API` . Next, InsaAllah I'll be creating the frontend using `Angular`.*
+### Angular Projects
+- **[CpLife](https://cplifecse.web.app/)** | `Angular` `Bootstrap` `Codeforces & Atcoder API`  
+  *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
 
-**Competitive Programming**: [Codeforces](https://codeforces.com/profile/wajiul) *`max-rating: 1507` `solved: 1000+ problems`*
+### ASP.Net MVC Projects
+- **[CPU - Performance Tracker](https://cpucseiu.azurewebsites.net/)** | `ASP.NET Core MVC` `Bootstrap` `C#` `HTML` `CSS` `jQuery`  
+     *A web app for the Competitive Programmers Union. Contains robust tracking mechanism to evaluate member performance and calculate scores for bi-monthly awards.*
 
-
+### Competitive Programming
+- [Codeforces](https://codeforces.com/profile/wajiul) *`max-rating: 1507` `solved: 1050+ problems`*
+- [Codechef](https://www.codechef.com/users/wajiul) *`max-rating: 1733` `solved: 130+ problems`*
+- [Atcoder](https://atcoder.jp/users/wajiul1) *`solved: 230+ problems`*
+- [Hackerrank](https://www.hackerrank.com/profile/wajiul) *`solved: 200+ problems`*
+  
