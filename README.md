@@ -7,7 +7,7 @@
 🧠 I'm currently learning ASP.NET Core Web API and Angular
 
 ### Web API Projects
-- **[InterviewPuzzle API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://documenter.getpostman.com/view/33928531/2sA3JNb1Dy)** | `ASP.NET Core Web API` `C#` `EF Core`  
+- **[InterviewPuzzle API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://wajiul.github.io/API-Documentation/)** | `ASP.NET Core Web API` `C#` `EF Core`  
      *A Web API for an interview preparation web app.*
 
 - **[LibrarianX API](https://github.com/wajiul/LibrarianX)** | `ASP.NET Core Web API` `C#` `EF Core`  
