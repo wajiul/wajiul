@@ -31,5 +31,5 @@
 - [Codechef](https://www.codechef.com/users/wajiul) *`max-rating: 1733` `solved: 130+ problems`*
 - [Atcoder](https://atcoder.jp/users/wajiul1) *`solved: 230+ problems`*
 - [Hackerrank](https://www.hackerrank.com/profile/wajiul) *`solved: 200+ problems`*
-- [Leetcode](https://www.hackerrank.com/profile/wajiul) *`solved: 350+ problems`*
+- [Leetcode](https://leetcode.com/u/wajiul/) *`solved: 350+ problems`*
   
