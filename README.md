@@ -4,8 +4,14 @@
 
 *I'm a Computer Science and Engineering graduate from Islamic University, Bangladesh. Started as a competitive programmer, now exploring full-stack web development and seeking exciting opportunities in the field.*
 
-🧠 I'm currently learning ASP.NET Core Web API and Angular
 
+### ASP.Net Core MVC Projects
+- **[Collection Manager](http://users.somee.com/)** | `ASP.NET Core MVC` `PostgreSQL` `SignalR` `Jira API` `Salesforce API`  
+     *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    
+      multilingual support, and integrations with Jira and Salesforce.*
+- **[Collaborative Drawing Board](http://www.owajeul.somee.com/)** | `ASP.NET Core MVC` `Fabric.js` `PostgreSQL` `SignalR`
+     *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    multilingual support, and integrations with Jira and Salesforce.*
+  
 ### Web API Projects
 - **[InterviewPuzzle API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://wajiul.github.io/API-Documentation/)** | `ASP.NET Core Web API` `C#` `EF Core`  
      *A Web API for an interview preparation web app.*
@@ -19,13 +25,11 @@
 - **[CpLife](https://cplifecse.web.app/)** | `Angular` `Bootstrap` `Codeforces & Atcoder API`  
   *Its a web app to curate and display programming problem sets from Codeforces and Atcoder.*
 
-### ASP.Net MVC Projects
-- **[CPU - Performance Tracker](https://cpucseiu.azurewebsites.net/)** | `ASP.NET Core MVC` `Bootstrap` `C#` `HTML` `CSS` `jQuery`  
-     *A web app for the Competitive Programmers Union. Contains robust tracking mechanism to evaluate member performance and calculate scores for bi-monthly awards.*
 
 ### Competitive Programming
 - [Codeforces](https://codeforces.com/profile/wajiul) *`max-rating: 1507` `solved: 1050+ problems`*
 - [Codechef](https://www.codechef.com/users/wajiul) *`max-rating: 1733` `solved: 130+ problems`*
 - [Atcoder](https://atcoder.jp/users/wajiul1) *`solved: 230+ problems`*
 - [Hackerrank](https://www.hackerrank.com/profile/wajiul) *`solved: 200+ problems`*
+- [Leetcode](https://leetcode.com/u/wajiul/) *`solved: 350+ problems`*
   
