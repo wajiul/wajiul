@@ -9,7 +9,7 @@
 - **[Collection Manager](http://users.somee.com/)** | `ASP.NET Core MVC` `PostgreSQL` `SignalR` `Jira API` `Salesforce API`  
      *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    
       multilingual support, and integrations with Jira and Salesforce.*
-- **[Collaborative Drawing Board](http://www.owajeul.somee.com/)** | `ASP.NET Core MVC` `Fabric.js` `PostgreSQL` `SignalR`
+- **[Collaborative Drawing Board](http://www.owajeul.somee.com/)** | `ASP.NET Core MVC` `Fabric.js` `PostgreSQL` `SignalR`             
      *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    multilingual support, and integrations with Jira and Salesforce.*
   
 ### Web API Projects
@@ -31,5 +31,5 @@
 - [Codechef](https://www.codechef.com/users/wajiul) *`max-rating: 1733` `solved: 130+ problems`*
 - [Atcoder](https://atcoder.jp/users/wajiul1) *`solved: 230+ problems`*
 - [Hackerrank](https://www.hackerrank.com/profile/wajiul) *`solved: 200+ problems`*
-- [Leetcode](https://leetcode.com/u/wajiul/) *`solved: 350+ problems`*
+- [Leetcode](https://www.hackerrank.com/profile/wajiul) *`solved: 350+ problems`*
   
