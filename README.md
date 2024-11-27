@@ -10,7 +10,7 @@
      *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    
       multilingual support, and integrations with Jira and Salesforce.*
 - **[Collaborative Drawing Board](http://www.owajeul.somee.com/)** | `ASP.NET Core MVC` `Fabric.js` `PostgreSQL` `SignalR`             
-     *A dynamic web application for storing, managing, and customizing collections, featuring real-time updates,    multilingual support, and integrations with Jira and Salesforce.*
+     *A real-time collaborative drawing board enabling seamless multi-user interaction on a shared canvas.*
   
 ### Web API Projects
 - **[InterviewPuzzle API](https://github.com/wajiul/InterviewPuzzle) | [documentation](https://wajiul.github.io/API-Documentation/)** | `ASP.NET Core Web API` `C#` `EF Core`  
